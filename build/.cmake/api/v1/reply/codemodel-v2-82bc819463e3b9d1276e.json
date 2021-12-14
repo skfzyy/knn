@@ -1,0 +1,125 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "tests",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tests",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "efanna2e",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "efanna2e::@145eef247bfb46b6828c",
+					"jsonFile" : "target-efanna2e-8f588f95a90d8055d407.json",
+					"name" : "efanna2e",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "efanna2e_s::@145eef247bfb46b6828c",
+					"jsonFile" : "target-efanna2e_s-77bab5fd88cabfdcf5c7.json",
+					"name" : "efanna2e_s",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_kdtree_graph::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_kdtree_graph-c4760d3c91aa96f7eb9c.json",
+					"name" : "test_kdtree_graph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_nndescent::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_nndescent-78d84ca5cee4fa423d9b.json",
+					"name" : "test_nndescent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_nndescent_refine::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_nndescent_refine-b51bc00d64795bab6016.json",
+					"name" : "test_nndescent_refine",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/project/knn/build",
+		"source" : "/root/project/knn"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

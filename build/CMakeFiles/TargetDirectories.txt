@@ -1,0 +1,11 @@
+/root/project/knn/build/CMakeFiles/rebuild_cache.dir
+/root/project/knn/build/CMakeFiles/edit_cache.dir
+/root/project/knn/build/src/CMakeFiles/rebuild_cache.dir
+/root/project/knn/build/src/CMakeFiles/edit_cache.dir
+/root/project/knn/build/src/CMakeFiles/efanna2e_s.dir
+/root/project/knn/build/src/CMakeFiles/efanna2e.dir
+/root/project/knn/build/tests/CMakeFiles/rebuild_cache.dir
+/root/project/knn/build/tests/CMakeFiles/edit_cache.dir
+/root/project/knn/build/tests/CMakeFiles/test_nndescent_refine.dir
+/root/project/knn/build/tests/CMakeFiles/test_kdtree_graph.dir
+/root/project/knn/build/tests/CMakeFiles/test_nndescent.dir
